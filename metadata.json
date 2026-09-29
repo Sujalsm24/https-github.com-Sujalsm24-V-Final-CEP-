@@ -1,0 +1,8 @@
+{
+  "name": "Remix BhashaSetu – Local Language Learning Platform",
+  "description": "Master Marathi, Hindi, and English through interactive lessons, real-life conversations, quizzes, pronunciation practice, and AI tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
